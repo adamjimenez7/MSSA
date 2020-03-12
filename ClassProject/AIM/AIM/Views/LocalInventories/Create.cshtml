@@ -1,0 +1,68 @@
+﻿@model DAMMIT.Models.LocalInventory
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>LocalInventory</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AmmoId" class="control-label"></label>
+                <input asp-for="AmmoId" class="form-control" />
+                <span asp-validation-for="AmmoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocNumber" class="control-label"></label>
+                <input asp-for="DocNumber" class="form-control" />
+                <span asp-validation-for="DocNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dodic" class="control-label"></label>
+                <input asp-for="Dodic" class="form-control" />
+                <span asp-validation-for="Dodic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nomenclature" class="control-label"></label>
+                <input asp-for="Nomenclature" class="form-control" />
+                <span asp-validation-for="Nomenclature" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LotNumber" class="control-label"></label>
+                <input asp-for="LotNumber" class="form-control" />
+                <span asp-validation-for="LotNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InitialQty" class="control-label"></label>
+                <input asp-for="InitialQty" class="form-control" />
+                <span asp-validation-for="InitialQty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CurrentQty" class="control-label"></label>
+                <input asp-for="CurrentQty" class="form-control" />
+                <span asp-validation-for="CurrentQty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
