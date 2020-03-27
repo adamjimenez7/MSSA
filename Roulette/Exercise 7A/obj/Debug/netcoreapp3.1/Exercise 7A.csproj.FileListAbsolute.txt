@@ -1,0 +1,22 @@
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.exe
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.deps.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.runtimeconfig.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.runtimeconfig.dev.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.dll
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.pdb
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.csprojAssemblyReference.cache
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.AssemblyInfoInputs.cache
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.AssemblyInfo.cs
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.dll
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.pdb
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.exe
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.deps.json
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.runtimeconfig.json
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.runtimeconfig.dev.json
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.dll
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\bin\Debug\netcoreapp3.1\Exercise 7A.pdb
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.csprojAssemblyReference.cache
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.AssemblyInfoInputs.cache
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.AssemblyInfo.cs
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.dll
+J:\Razer Backup\Documents\MSSA\ISTA 322\Exercises\Exercise 7A\Exercise 7A\obj\Debug\netcoreapp3.1\Exercise 7A.pdb
