@@ -1,0 +1,11 @@
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding.deps.json
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding.runtimeconfig.json
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding.runtimeconfig.dev.json
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding.dll
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/bin/Debug/netcoreapp3.1/Whiteboarding.pdb
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/obj/Debug/netcoreapp3.1/Whiteboarding.csprojAssemblyReference.cache
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/obj/Debug/netcoreapp3.1/Whiteboarding.AssemblyInfoInputs.cache
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/obj/Debug/netcoreapp3.1/Whiteboarding.AssemblyInfo.cs
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/obj/Debug/netcoreapp3.1/Whiteboarding.dll
+/home/atom/Documents/MSSA/ISTA 322/Whiteboarding/obj/Debug/netcoreapp3.1/Whiteboarding.pdb
