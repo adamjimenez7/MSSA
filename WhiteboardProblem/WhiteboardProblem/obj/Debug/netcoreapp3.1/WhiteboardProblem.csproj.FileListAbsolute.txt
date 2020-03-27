@@ -1,0 +1,11 @@
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.exe
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.deps.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.runtimeconfig.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.runtimeconfig.dev.json
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.dll
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\bin\Debug\netcoreapp3.1\WhiteboardProblem.pdb
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\obj\Debug\netcoreapp3.1\WhiteboardProblem.csprojAssemblyReference.cache
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\obj\Debug\netcoreapp3.1\WhiteboardProblem.AssemblyInfoInputs.cache
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\obj\Debug\netcoreapp3.1\WhiteboardProblem.AssemblyInfo.cs
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\obj\Debug\netcoreapp3.1\WhiteboardProblem.dll
+C:\Users\atomj\OneDrive\Documents\MSSA\ISTA 220\Whiteboarding\WhiteboardProblem\WhiteboardProblem\obj\Debug\netcoreapp3.1\WhiteboardProblem.pdb
