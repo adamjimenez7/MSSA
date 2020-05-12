@@ -1,6 +1,6 @@
 using System;
 
-namespace DAMMIT.Models
+namespace AIM.Models
 {
     public class ErrorViewModel
     {

@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace DAMMIT.Models
+namespace AIM.Models
 {
     public partial class LocalInventory
     {
+        [Key]
         public int AmmoId { get; set; }
         public string DocNumber { get; set; }
         public string Dodic { get; set; }

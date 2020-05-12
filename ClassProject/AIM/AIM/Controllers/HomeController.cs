@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DAMMIT.Models;
+using AIM.Models;
 
-namespace DAMMIT.Controllers
+namespace Acongrebility.Controllers
 {
     public class HomeController : Controller
     {

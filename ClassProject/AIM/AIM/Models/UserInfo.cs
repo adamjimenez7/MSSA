@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace DAMMIT.Models
+namespace AIM.Models
 {
     public partial class UserInfo
     {
+        [Key]
         public int UserId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
