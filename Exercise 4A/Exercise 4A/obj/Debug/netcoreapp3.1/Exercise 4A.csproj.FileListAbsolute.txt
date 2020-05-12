@@ -1,0 +1,13 @@
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.exe
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.deps.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.runtimeconfig.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.runtimeconfig.dev.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.dll
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\bin\Debug\netcoreapp3.1\Exercise 4A.pdb
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.csprojAssemblyReference.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.AssemblyInfo.cs
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.dll
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.pdb
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 4A\Exercise 4A\obj\Debug\netcoreapp3.1\Exercise 4A.genruntimeconfig.cache
