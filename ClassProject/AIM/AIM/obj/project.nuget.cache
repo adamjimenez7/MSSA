@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xu+XHOqSIqK2oweangpGxutmN4L6sFcSUeMNLYInLNsy91imTXIaaGF5ruAdVlLEOaBWceO1TSAFsVJI0XTDAg==",
+=======
+  "dgSpecHash": "XZW0Ir9MJuH0JGA1xHgD1PSVnWyePFfuE2J0LvBeL2OikXkI97p4K2BIAM8eXbPobmF9yQ7WvobUamag34mPfg==",
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
   "success": true,
   "projectFilePath": "C:\\Users\\adam\\Documents\\Adam\\MSSA\\Project\\AIM\\AIM\\AIM.csproj",
   "expectedPackageFiles": [
@@ -68,6 +72,7 @@
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.visualstudio.web.browserlink\\2.2.0\\microsoft.visualstudio.web.browserlink.2.2.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.2\\microsoft.visualstudio.web.codegeneration.3.1.2.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.2\\microsoft.visualstudio.web.codegeneration.contracts.3.1.2.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.2\\microsoft.visualstudio.web.codegeneration.core.3.1.2.nupkg.sha512",
@@ -76,6 +81,16 @@
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\3.1.2\\microsoft.visualstudio.web.codegeneration.templating.3.1.2.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\3.1.2\\microsoft.visualstudio.web.codegeneration.utils.3.1.2.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.2\\microsoft.visualstudio.web.codegenerators.mvc.3.1.2.nupkg.sha512",
+=======
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.1\\microsoft.visualstudio.web.codegeneration.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.1\\microsoft.visualstudio.web.codegeneration.contracts.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.1\\microsoft.visualstudio.web.codegeneration.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\3.1.1\\microsoft.visualstudio.web.codegeneration.design.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.entityframeworkcore\\3.1.1\\microsoft.visualstudio.web.codegeneration.entityframeworkcore.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\3.1.1\\microsoft.visualstudio.web.codegeneration.templating.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\3.1.1\\microsoft.visualstudio.web.codegeneration.utils.3.1.1.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.1\\microsoft.visualstudio.web.codegenerators.mvc.3.1.1.nupkg.sha512",
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
     "C:\\Users\\adam\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",

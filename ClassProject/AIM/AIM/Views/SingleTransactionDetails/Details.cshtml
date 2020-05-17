@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@model AIM.Models.SingleTransactionDetails
 
 @{
@@ -70,3 +71,77 @@
     <a asp-action="Edit" asp-route-id="@Model.LineId">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>
+=======
+﻿@model AIM.Models.SingleTransactionDetails
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>SingleTransactionDetails</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Da5515Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Da5515Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dodic)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dodic)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nomenclature)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nomenclature)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LotNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LotNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Qtyissued)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Qtyissued)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ResIssued)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ResIssued)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Qtyreturned)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Qtyreturned)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ResReturned)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ResReturned)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LineId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252

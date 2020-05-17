@@ -1012,7 +1012,11 @@
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.VisualStudio.Web.CodeGeneration/3.1.2": {
+=======
+      "Microsoft.VisualStudio.Web.CodeGeneration/3.1.1": {
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "3.1.0",
@@ -4394,6 +4398,7 @@
     },
     "Microsoft.Net.Http.Headers/2.2.0": {
       "sha512": "iZNkjYqlo8sIOI0bQfpsSoMTmB/kyvmV2h225ihyZT33aTp48ZpF6qYnXxzSXmHt8DpBAwBTX+1s1UFLbYfZKg==",
+<<<<<<< HEAD
       "type": "package",
       "path": "microsoft.net.http.headers/2.2.0",
       "files": [
@@ -4408,6 +4413,22 @@
     "Microsoft.NETCore.Platforms/3.0.0": {
       "sha512": "TsETIgVJb/AKoYfSP+iCxkuly5d3inZjTdx/ItZLk2CxY85v8083OBS3uai84kK3/baLnS5/b5XGs6zR7SuuHQ==",
       "type": "package",
+=======
+      "type": "package",
+      "path": "microsoft.net.http.headers/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll",
+        "lib/netstandard2.0/Microsoft.Net.Http.Headers.xml",
+        "microsoft.net.http.headers.2.2.0.nupkg.sha512",
+        "microsoft.net.http.headers.nuspec"
+      ]
+    },
+    "Microsoft.NETCore.Platforms/3.0.0": {
+      "sha512": "TsETIgVJb/AKoYfSP+iCxkuly5d3inZjTdx/ItZLk2CxY85v8083OBS3uai84kK3/baLnS5/b5XGs6zR7SuuHQ==",
+      "type": "package",
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
       "path": "microsoft.netcore.platforms/3.0.0",
       "files": [
         ".nupkg.metadata",
@@ -4439,6 +4460,22 @@
     },
     "Microsoft.VisualStudio.Web.BrowserLink/2.2.0": {
       "sha512": "cmeqhbB+rdMia3bj6cJaKQw1GDOqHxzDWAjoJqCnz+JYi9a2xsBdzycYy9eMEssVwLmLAUw6sWLMPMfGXAQmWA==",
+<<<<<<< HEAD
+=======
+      "type": "package",
+      "path": "microsoft.visualstudio.web.browserlink/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll",
+        "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.xml",
+        "microsoft.visualstudio.web.browserlink.2.2.0.nupkg.sha512",
+        "microsoft.visualstudio.web.browserlink.nuspec"
+      ]
+    },
+    "Microsoft.VisualStudio.Web.CodeGeneration/3.1.1": {
+      "sha512": "As3HZwVDwdFRKrZ5gWflHTolau+Rkb3P6YAZt9Ob+tcQdlRL5y0tDYNE1DMQIWc6rcn7LtlttT3/0FLd6A9Qjg==",
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
       "type": "package",
       "path": "microsoft.visualstudio.web.browserlink/2.2.0",
       "files": [
@@ -9685,7 +9722,11 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.1",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.2",
       "Microsoft.VisualStudio.Web.BrowserLink >= 2.2.0",
+<<<<<<< HEAD
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.2"
+=======
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1"
+>>>>>>> e6ed7f560613a95b7ad6f5c81beaaa8a36be2252
     ]
   },
   "packageFolders": {

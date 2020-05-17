@@ -1,0 +1,13 @@
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.csprojAssemblyReference.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.AssemblyInfo.cs
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.exe
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.deps.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.runtimeconfig.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.runtimeconfig.dev.json
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.dll
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\bin\Debug\netcoreapp3.1\Exercise 2B.pdb
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.dll
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.pdb
+C:\Users\adam\Documents\Adam\MSSA\ISTA 421\Exercises\Exercise 2B\Exercise 2B\obj\Debug\netcoreapp3.1\Exercise 2B.genruntimeconfig.cache
