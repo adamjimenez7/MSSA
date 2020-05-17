@@ -1,8 +1,20 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Landing Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-3 mt-5">Ammunition and Inventory Manager</h1>
 </div>
+<div class="row justify-content-center">
+    <div class="col-md-4 mt-5 align-middle">
+        <blockquote class="blockquote text-center text-uppercase font-italic">
+        <p>"Whoever said the pen is mightier than the sword obviously never encountered automatic weapons."</p>
+        <footer class="blockquote-footer">General Douglas MacArthur</footer>
+        </blockquote>
+    </div>
+    <div class="goto-box col-md-6 mt-5">
+        <div class="login-btn"><a class="btn btn-secondary goto-btn p-4" asp-area="Identity" asp-page="/Account/Login">Login</a></div>
+        <div class="signup-btn"><a class="btn btn-secondary goto-btn p-4" asp-area="Identity" asp-page="/Account/Register">Sign Up</a></div>
+    </div>
+</div>
+

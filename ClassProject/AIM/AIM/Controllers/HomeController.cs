@@ -5,9 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DAMMIT.Models;
+using AIM.Models;
+using Microsoft.AspNetCore.Authorization;
 
-namespace DAMMIT.Controllers
+namespace Acongrebility.Controllers
 {
     public class HomeController : Controller
     {
@@ -19,6 +20,11 @@ namespace DAMMIT.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+        [Authorize]
+        public IActionResult Home()
         {
             return View();
         }

@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using DAMMIT.Data;
-using DAMMIT.Models;
+using AIM.Data;
+using AIM.Models;
 
-namespace DAMMIT.Controllers
+namespace AIM.Controllers
 {
     public class SingleTransactionDetailsController : Controller
     {
-        private readonly ProjectDatabaseDbContext _context;
+        private readonly AIMDbContext _context;
 
-        public SingleTransactionDetailsController(ProjectDatabaseDbContext context)
+        public SingleTransactionDetailsController(AIMDbContext context)
         {
             _context = context;
         }
@@ -54,7 +54,7 @@ namespace DAMMIT.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("LineId,Da5515id,Dodic,Nomenclature,LotNumber,Qtyissued,ResIssued,Qtyreturned,ResReturned,Notes")] SingleTransactionDetails singleTransactionDetails)
+        public async Task<IActionResult> Create([Bind("LineId,Da5515Id,Dodic,Nomenclature,LotNumber,Qtyissued,ResIssued,Qtyreturned,ResReturned,Notes")] SingleTransactionDetails singleTransactionDetails)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace DAMMIT.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("LineId,Da5515id,Dodic,Nomenclature,LotNumber,Qtyissued,ResIssued,Qtyreturned,ResReturned,Notes")] SingleTransactionDetails singleTransactionDetails)
+        public async Task<IActionResult> Edit(int id, [Bind("LineId,Da5515Id,Dodic,Nomenclature,LotNumber,Qtyissued,ResIssued,Qtyreturned,ResReturned,Notes")] SingleTransactionDetails singleTransactionDetails)
         {
             if (id != singleTransactionDetails.LineId)
             {

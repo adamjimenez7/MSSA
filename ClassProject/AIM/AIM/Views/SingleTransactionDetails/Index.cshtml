@@ -1,4 +1,4 @@
-﻿@model IEnumerable<DAMMIT.Models.SingleTransactionDetails>
+﻿@model IEnumerable<AIM.Models.SingleTransactionDetails>
 
 @{
     ViewData["Title"] = "Index";
@@ -13,7 +13,7 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Da5515id)
+                @Html.DisplayNameFor(model => model.Da5515Id)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Dodic)
@@ -46,7 +46,7 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Da5515id)
+                @Html.DisplayFor(modelItem => item.Da5515Id)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Dodic)
